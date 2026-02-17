@@ -1,8 +1,16 @@
 {
     'name': 'Odoo Pro Biometric Integration',
+    'version': '8.0.1.0.1', 
     'summary': 'Professional biometric integration with advanced logging, UI, and configuration.',
     'author': 'Dimas Aryo Novantri',
     'category': 'Human Resources/Attendances',
+    
+    # --- BAGIAN UNTUK JUALAN ---
+    'license': 'OP-1',  
+    'price': 350.00,
+    'currency': 'USD',
+    # -----------------------------
+    
     'depends': [
         'hr_attendance',
     ],
@@ -16,5 +24,4 @@
     'installable': True,
     'application': True,
     'auto_install': False,
-    'license': 'OPL-1',
 }
