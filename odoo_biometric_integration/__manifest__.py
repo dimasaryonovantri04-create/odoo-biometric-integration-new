@@ -13,7 +13,9 @@
     'currency': 'USD',
 
 
-    'images': ['static/description/banner.png'],
+    'images':[
+        'images/banner.png',
+        ],,
     
 
     'long_description': open('static/description/index.html').read(),
@@ -37,3 +39,4 @@
     'application': True,
     'auto_install': False,
 }
+
