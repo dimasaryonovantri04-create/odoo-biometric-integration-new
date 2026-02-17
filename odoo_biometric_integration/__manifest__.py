@@ -6,7 +6,7 @@
     'category': 'Human Resources/Attendances',
     
     # --- BAGIAN UNTUK JUALAN ---
-    'license': 'OP-1',  
+    'license': 'OPL-1',  
     'price': 350.00,
     'currency': 'USD',
     # -----------------------------
@@ -25,3 +25,4 @@
     'application': True,
     'auto_install': False,
 }
+
