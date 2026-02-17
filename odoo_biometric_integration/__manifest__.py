@@ -18,8 +18,6 @@
         ],
     
 
-    'long_description': open('static/description/index.html').read(),
-
     
     
     'depends': [
@@ -39,5 +37,6 @@
     'application': True,
     'auto_install': False,
 }
+
 
 
